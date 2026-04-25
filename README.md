@@ -117,7 +117,7 @@ The following diagram represents the Spiral lifecycle for the Hospital Managemen
 For reference and editing:
 
 - **Excalidraw File:** `hospital-management-system.excalidraw`  
-- **Excalidraw Link:** [Open Diagram](PASTE_YOUR_LINK_HERE)
+- **Excalidraw Link:** [Open Diagram](https://excalidraw.com/#json=G-A-Rf84mkYhFvSSXFLno,wdlumvkBPte6jruf2mRT7A)
 
 > The diagram can be edited using https://excalidraw.com
 
