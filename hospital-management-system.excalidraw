@@ -1,0 +1,180 @@
+{
+  "type": "excalidraw",
+  "version": 2,
+  "source": "https://excalidraw.com",
+  "elements": [
+    {
+      "type": "text", "id": "title", "x": 150, "y": 10, "width": 620, "height": 36,
+      "text": "Spiral SDLC — Hospital Management System",
+      "fontSize": 22, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#6B1A1A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 2, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "ellipse", "id": "center", "x": 405, "y": 255, "width": 60, "height": 60,
+      "strokeColor": "#333333", "backgroundColor": "#333333",
+      "fillStyle": "solid", "strokeWidth": 2, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "center_t", "x": 400, "y": 263, "width": 70, "height": 44,
+      "text": "START", "fontSize": 11, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#FFFFFF", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "ellipse", "id": "loop1", "x": 320, "y": 170, "width": 230, "height": 230,
+      "strokeColor": "#6B1A1A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 2, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "ellipse", "id": "loop2", "x": 220, "y": 70, "width": 430, "height": 430,
+      "strokeColor": "#A52020", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 2, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "ellipse", "id": "loop3", "x": 120, "y": -30, "width": 630, "height": 630,
+      "strokeColor": "#C94040", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 2, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "ellipse", "id": "loop4", "x": 20, "y": -130, "width": 830, "height": 830,
+      "strokeColor": "#E06060", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 2, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "line", "id": "line_v", "x": 435, "y": 30, "width": 0, "height": 510,
+      "strokeColor": "#AAAAAA", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 60, "angle": 0,
+      "points": [[0,0],[0,510]]
+    },
+    {
+      "type": "line", "id": "line_h", "x": 30, "y": 285, "width": 810, "height": 0,
+      "strokeColor": "#AAAAAA", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 60, "angle": 0,
+      "points": [[0,0],[810,0]]
+    },
+    {
+      "type": "text", "id": "quad1", "x": 460, "y": 60, "width": 160, "height": 30,
+      "text": "PLANNING", "fontSize": 16, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#1A5C3A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "quad2", "x": 40, "y": 60, "width": 180, "height": 30,
+      "text": "RISK ANALYSIS", "fontSize": 16, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#8B1A1A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "quad3", "x": 30, "y": 450, "width": 190, "height": 30,
+      "text": "ENGINEERING", "fontSize": 16, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#1B4F8A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "quad4", "x": 640, "y": 450, "width": 190, "height": 30,
+      "text": "EVALUATION", "fontSize": 16, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#7A5C00", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "rectangle", "id": "lp1_plan", "x": 490, "y": 210, "width": 130, "height": 30,
+      "strokeColor": "#1A5C3A", "backgroundColor": "#D4EDDA",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "lp1_plan_t", "x": 490, "y": 210, "width": 130, "height": 30,
+      "text": "Loop 1: Patient OPD", "fontSize": 10, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#1A5C3A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "rectangle", "id": "lp2_plan", "x": 560, "y": 165, "width": 140, "height": 30,
+      "strokeColor": "#1A5C3A", "backgroundColor": "#BDE5C8",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "lp2_plan_t", "x": 560, "y": 165, "width": 140, "height": 30,
+      "text": "Loop 2: EMR & Lab", "fontSize": 10, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#1A5C3A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "rectangle", "id": "lp3_plan", "x": 630, "y": 115, "width": 150, "height": 30,
+      "strokeColor": "#1A5C3A", "backgroundColor": "#A0D9B2",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "lp3_plan_t", "x": 630, "y": 115, "width": 150, "height": 30,
+      "text": "Loop 3: Billing & Insurance", "fontSize": 10, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#1A5C3A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "rectangle", "id": "lp4_plan", "x": 700, "y": 60, "width": 160, "height": 30,
+      "strokeColor": "#1A5C3A", "backgroundColor": "#7DC99A",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "lp4_plan_t", "x": 700, "y": 60, "width": 160, "height": 30,
+      "text": "Loop 4: Full Integration", "fontSize": 10, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#1A5C3A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "rectangle", "id": "lp1_risk", "x": 260, "y": 210, "width": 130, "height": 30,
+      "strokeColor": "#8B1A1A", "backgroundColor": "#FAD7D7",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "lp1_risk_t", "x": 260, "y": 210, "width": 130, "height": 30,
+      "text": "Risk: Login security", "fontSize": 10, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#8B1A1A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "rectangle", "id": "lp2_risk", "x": 185, "y": 165, "width": 140, "height": 30,
+      "strokeColor": "#8B1A1A", "backgroundColor": "#F5BEBE",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "lp2_risk_t", "x": 185, "y": 165, "width": 140, "height": 30,
+      "text": "Risk: HL7 compliance", "fontSize": 10, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#8B1A1A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "rectangle", "id": "lp3_risk", "x": 105, "y": 115, "width": 150, "height": 30,
+      "strokeColor": "#8B1A1A", "backgroundColor": "#EFA0A0",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "lp3_risk_t", "x": 105, "y": 115, "width": 150, "height": 30,
+      "text": "Risk: Financial fraud", "fontSize": 10, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#8B1A1A", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "rectangle", "id": "lp4_risk", "x": 20, "y": 60, "width": 160, "height": 30,
+      "strokeColor": "#8B1A1A", "backgroundColor": "#E07070",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "lp4_risk_t", "x": 20, "y": 60, "width": 160, "height": 30,
+      "text": "Risk: HIPAA / NABH audit", "fontSize": 10, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#FFFFFF", "backgroundColor": "transparent",
+      "fillStyle": "solid", "strokeWidth": 1, "roughness": 1, "opacity": 100, "angle": 0
+    },
+    {
+      "type": "text", "id": "legend", "x": 20, "y": 570, "width": 830, "height": 70,
+      "text": "Each spiral loop = Plan → Risk Analysis → Engineer → Evaluate\nLoop 1: Patient & OPD  |  Loop 2: EMR, Lab & Pharmacy  |  Loop 3: Billing & Insurance  |  Loop 4: Full Integration, HIPAA Compliance & Deployment",
+      "fontSize": 12, "fontFamily": 1, "textAlign": "center", "verticalAlign": "middle",
+      "strokeColor": "#333333", "backgroundColor": "#F5E6E6",
+      "fillStyle": "solid", "strokeWidth": 2, "roughness": 1, "opacity": 100, "angle": 0
+    }
+  ],
+  "appState": {
+    "viewBackgroundColor": "#FFFFFF",
+    "gridSize": null
+  }
+}
